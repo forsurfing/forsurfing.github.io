@@ -14,21 +14,21 @@ theme:
     - scheme: default
       # 主颜色
       # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
-      primary: indigo
+      primary: black
       # 链接等可交互元件的高亮色
       # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#accent-color
-      accent: orange
+      accent: blue
       toggle:
         # 图标
-        icon: material/weather-night
+        icon: material/toggle-switch
         # 鼠标悬浮提示
         name: 切换至夜间模式
     # 夜间模式
     - scheme: slate
-      primary: indigo
-      accent: orange
+      primary: white
+      accent: light green
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: 切换至日间模式
   features:
     # 使用 Tab 来进行分类
