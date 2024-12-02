@@ -3,5 +3,6 @@
 欢迎来到我的个人博客！
 
 ## 最近更新
-- [Python 学习笔记](blog/tech/python.md)
-- [Web 开发笔记](blog/tech/web.md)
+- [个人高中经历](高中/个人/geren。md)
+- [高三备考建议](高中/高三/gaosan.md)
+- [高一高二规划](高中/高一高二/gaoyigaoer.md)
