@@ -31,9 +31,9 @@ theme:
         icon: material/toggle-switch-off-outline
         name: 切换至日间模式
   features:
-     -navigation.instant
-     -navigation.path
-     -navigation.sections
+    - navigation.instant
+    - navigation.path
+    - navigation.sections
     # 使用 Tab 来进行分类
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-tabs
     - navigation.tabs
