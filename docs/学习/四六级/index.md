@@ -15,7 +15,7 @@
 ### 努力
 
 
-- unremitting efforts have been made to achieve the goal Of implementing compulsory education nationwide.
+- Unremitting efforts have been made to achieve the goal of implementing compulsory education nationwide.
 
 - Empowerment through critical thinking training  forsters analytical skills,postively influencing ondividual's decision-making capabilities in complex situations.
 
