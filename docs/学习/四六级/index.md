@@ -20,4 +20,4 @@
 
 ### 呼吁
 
--It is incumbent upon the educational insititutions to integrate comprehensive digital literacy programs into their curriculas,providing students with not just techinical skills but also critical thinking and ethical awareness required tO navigate and succeed in the complexities of the digital age.
+- It is incumbent upon the educational insititutions to integrate comprehensive digital literacy programs into their curriculas,providing students with not just techinical skills but also critical thinking and ethical awareness required tO navigate and succeed in the complexities of the digital age.
