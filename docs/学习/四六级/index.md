@@ -9,7 +9,7 @@
 
 - The neglection OF social practice has grown to the point of creating graduates disconnected from real-world needs.
 
--The excessive reliance on vitual communication has worsened to the piont of making individuals forget the joys of authentic face-to-face interaction.
+- The excessive reliance on vitual communication has worsened to the piont of making individuals forget the joys of authentic face-to-face interaction.
 
 
 ### 努力
