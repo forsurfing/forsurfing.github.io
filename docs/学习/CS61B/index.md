@@ -4,7 +4,7 @@
 ## 数据
 
 ### 1. SLLists, Nested Classes, Sentinel Nodes
-  - 运用递归方法得出基础nodelist，再用SLList封装（private static nodelist）,得到更好调用和安全的链表，然后再用[Sentinel Nodes](https://github.com/Berkeley-CS61B/lectureCode-fa20/blob/master/lists2/SLList.java),在不添加特殊情况下防止节点开头是null造成的错误，保持一致性
+  - 运用递归方法得出基础nodelist，再用SLList封装（private static nodelist）,得到更好调用和安全的链表，然后再用加一个中间节点[Sentinel Nodes](https://github.com/Berkeley-CS61B/lectureCode-fa20/blob/master/lists2/SLList.java),在不添加特殊情况下防止节点开头是null造成的错误，保持一致性
   - private修饰类表示只在该类所在（上层）类内访问（外对内），static修饰表示该类
 
 
