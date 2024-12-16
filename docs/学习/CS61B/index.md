@@ -13,6 +13,12 @@
   - 后者是复用全部，但是可能会出现无法访问父类的private类，此时用super
   - 两者都可以用@override，这更多是一个提醒有无拼写错误和这个方法复写
 
+### 3.Extends, Casting, Higher Order Function
+  - casting类型转换，就是父子类互相转换（其中子类转父类要显性 Dog dog = (Dog) animal），目的一般来说服务于多态或者联通外部
+  - java的高阶函数使用方法（.apply）本质上是接口继承
+
+### 4.
+
 
 ## 设计
 
