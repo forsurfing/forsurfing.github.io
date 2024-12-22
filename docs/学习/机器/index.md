@@ -22,8 +22,12 @@
    - train_on_gpu = torch.cuda.is_available()
    - device=torch.device()
 3. 选择冻结的层（第一次训练把特征提取全部冻结，只训练全连接层）
-  
-  - 通过层的字典名字'''python 
-  def set_parameter_requires_grad(model, feature_extracting)
-  '''
+  - 通过层的字典名字 
+  ``` python 
+  def set_parameter_requires_grad(model, feature_extracting):
+    if feature_extracting:
+        for name,param in model.parameters():
+            if not 'fc' in name:
+             param.requires_grad = False
+  ```
 1. 
