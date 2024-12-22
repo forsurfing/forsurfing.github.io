@@ -19,8 +19,10 @@
 ### 初始化模型
 1. 指定model_name,feature_extract(是否只训练全连接层)
 2. 指定GPU训练
-   - train_on_gpu = torch.cuda.is_available()
-   - device=torch.device()
+  ``` python 
+    train_on_gpu = torch.cuda.is_available()
+    device=torch.device()
+  ```
 3. 选择冻结的层（第一次训练把特征提取全部冻结，只训练全连接层）
   - 通过层的字典名字来选择冻结 
   ``` python 
@@ -30,4 +32,4 @@
             if not 'fc' in name:
              param.requires_grad = False
   ```
-1. 
+4. 
